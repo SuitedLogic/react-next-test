@@ -1,15 +1,14 @@
 ## Challenge
 ### Tasks
 
-1: **""CORS Crusher" (Junior)**  
-Goal: The API responses can't be consumed by the frontend when running in development mode due to missing CORS headers.
+1: **"404 Detective" (Junior)**  
+Goal: Fix an issue where missing posts show empty content instead of a proper 404 page.
 
-2: **"Data Sanitizer" (Mid)**  
-Goal: The API is exposing sensitive user data (secret keys) that shouldn't be accessible from the frontend.
+2: **"Path Pioneer" (Mid)**  
+Goal: Improve build-time efficiency by pre-rendering the most accessed posts at build time.
 
-3: **"Auth Architect" (Senior)**  
-Goal: The API route has no authentication, allowing any client to access user data.
-
+3: **"Revalidation Wizard" (Senior)**  
+Goal: Add a mechanism to update content after build time without requiring a full rebuild.
 ## Getting Started
 
 First, run the development server:

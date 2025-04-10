@@ -1,14 +1,16 @@
 ## Challenge
 ### Tasks
 
-1: **""CORS Crusher" (Junior)**  
-Goal: The API responses can't be consumed by the frontend when running in development mode due to missing CORS headers.
+1: **"Display Hero" (Junior)**  
+Goal: Create dashboard to display users list
 
-2: **"Data Sanitizer" (Mid)**  
-Goal: The API is exposing sensitive user data (secret keys) that shouldn't be accessible from the frontend.
+2: **"Optimal Master" (Mid)**  
+Goal: Optimize performance by preventing unnecessary re-renders of UserCard components when parent component re-renders.
 
-3: **"Auth Architect" (Senior)**  
-Goal: The API route has no authentication, allowing any client to access user data.
+3: **"Context Conductor" (Senior)**  
+Goal: Refactor the component to use a central state management approach for better scalability and maintainability.
+
+
 
 ## Getting Started
 
