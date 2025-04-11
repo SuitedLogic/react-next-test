@@ -1,14 +1,14 @@
 ## Challenge
 ### Tasks
 
-1: **""CORS Crusher" (Junior)**  
-Goal: The API responses can't be consumed by the frontend when running in development mode due to missing CORS headers.
+1: **"Alt Text Advocate" (Junior)**  
+Goal: Fix accessibility issues related to missing alt text for images.
 
-2: **"Data Sanitizer" (Mid)**  
-Goal: The API is exposing sensitive user data (secret keys) that shouldn't be accessible from the frontend.
+2: **"Responsive Rescuer" (Mid)**  
+Goal: Make images responsive and optimize them for different device sizes.
 
-3: **"Auth Architect" (Senior)**  
-Goal: The API route has no authentication, allowing any client to access user data.
+3: **"Lazy Load Luminary" (Senior)**  
+Goal: Optimize page load performance for galleries with many images.
 
 ## Getting Started
 

@@ -1,14 +1,14 @@
 ## Challenge
 ### Tasks
 
-1: **""CORS Crusher" (Junior)**  
-Goal: The API responses can't be consumed by the frontend when running in development mode due to missing CORS headers.
+1: **"Submission Sleuth" (Junior)**  
+Goal: Fix an issue where form data is not being properly submitted to the API endpoint.
 
-2: **"Data Sanitizer" (Mid)**  
-Goal: The API is exposing sensitive user data (secret keys) that shouldn't be accessible from the frontend.
+2: **"Validation Vigilante" (Mid)**  
+Goal: Add proper client-side validation with error messages for improved user experience.
 
-3: **"Auth Architect" (Senior)**  
-Goal: The API route has no authentication, allowing any client to access user data.
+3: **"Anti-Spam Agent" (Senior)**  
+Goal: Enhance form security to prevent spam submissions and abuse.
 
 ## Getting Started
 
